@@ -5,5 +5,8 @@ A lot of notations on the code are also from the instructor as some of the proje
 
 It is a simple web application that shows a list of students and you can add, delete and update student information.
 
-The stack is HTML, CSS and JavaScript for the client side, Java Servlets and Data Access Objects using the JDBC API on the server side,
-  and SQlite for the database.
+## Stack 
+* HTML, CSS and JavaScript for the client side
+* Java Servlets, Data Access Objects (DAO) using the JDBC API and GSON library for the server side
+* SQlite for the database, Apache Tomcat for the Web Server
+
